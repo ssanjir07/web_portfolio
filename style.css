@@ -8,3 +8,12 @@ h1{
 .name-color{
     color: orange;
 }
+.half{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+}
+.half img{
+    width: 100%;
+}
