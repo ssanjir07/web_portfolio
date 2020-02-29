@@ -6,6 +6,17 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 25px;
+}
+
+p{
+    color: dimgray;
+
+}
 .name-color{
     color: orange;
 }
@@ -24,6 +35,7 @@ h1{
 }
 section{
     height: 535px;
+    padding-bottom: 100px;
 }
 .button{
     text-decoration: none;
@@ -33,4 +45,9 @@ section{
     color: white;
     font-weight: 700;
 
+}
+.dream{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
